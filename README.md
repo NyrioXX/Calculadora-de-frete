@@ -113,3 +113,13 @@ Sendo assim, como exemplo, ao requisitarmos `http://localhost:8000/pokemon/1/` o
   }
 }
 ```
+
+## Exemplo de execução
+
+<p align = "center">
+<img width ="420" height ="300" src="src/assets/to_readme/listarPokemon.jpg>
+</p>
+
+<p align = "center" >
+<img width ="420" height ="300" src="src/assets/to_readme/detalharPokemon.jpg">
+</p>
