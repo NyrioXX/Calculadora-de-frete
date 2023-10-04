@@ -4,7 +4,7 @@ Projeto criado como forma de aprendizado inicial em javascript
 
 ## API Pokemon
 
-Neste exercício criaremos uma API para responder informações de pokemons.
+Essa API será usada para responder informações de pokemons.
 Para isso, utilizaremos como fonte dos dados as funções `listarPokemons` e `detalharPokemon`, da biblioteca `utils-playground`, que pode ser baixada no NPM, e pode ser encontrado no link abaixo:
 
 https://www.npmjs.com/package/utils-playground
@@ -15,7 +15,7 @@ Deste modo, o fluxo será:
 2. Sua API vai chamar as funções e aguardar o retorno delas
 3. Sua API vai retornar os dados que forem pedidos abaixo para o usuário
 
-Todas as requisições serão assíncronas **aguardando o retorno de cada chamada (quando necessário)**, antes de executar qualquer outro comando.
+Todas as requisições serão assíncronas.
 
 Foi usado apenas dois métodos (verbos **HTTP**) para o mesmo recurso **pokemon** (`http://localhost:8000/pokemon`):
 
